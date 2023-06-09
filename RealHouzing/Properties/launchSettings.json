@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RealHouzing (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "RealHouzing (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
